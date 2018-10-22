@@ -1,0 +1,15 @@
+{
+  "name": "twitch-webhook-create",
+  "version": "1.0.0",
+  "description": "Tutorial Lambda function to create subscriptions to Twitch Webhooks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeff Martin <dist@dist.co>",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  }
+}
