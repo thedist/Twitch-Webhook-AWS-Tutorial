@@ -33,7 +33,7 @@ This guide assumes you already have an AWS account, if not please sign up at htt
 ## Author
 * **Jeff Martin** - [theDist](https://twitch.tv/thedist)
 
-If you need to get in touch either message me here on GitHub, on Twtich's [Dev forums](https://discuss.dev.twitch.tv), or on the TwitchDev server in the Twitch app. If you liked this tutorial I'd appreciate anyone who wants to follow me on Twitch using my channel link above. I plan to write more tutorials on different subjects as I try new things, some of which I plan to stream in the future too!
+If you need to get in touch either message me here on GitHub, on Twitch's [Dev forums](https://discuss.dev.twitch.tv), or on the TwitchDev server in the Twitch app. If you liked this tutorial I'd appreciate anyone who wants to follow me on Twitch using my channel link above. I plan to write more tutorials on different subjects as I try new things, some of which I plan to stream in the future too!
 
 
 ## License
