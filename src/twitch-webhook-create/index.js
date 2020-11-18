@@ -26,7 +26,8 @@ exports.handler = async event => {
     const options = {
       url: 'https://api.twitch.tv/helix/webhooks/subscriptions',
       headers: {
-        Authorization: appToken
+        Authorization: appToken,
+        'Client-Id': process.env.client_id
       },
       json: true
     };
